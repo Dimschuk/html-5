@@ -76,7 +76,12 @@ h1
     font-size: 44px;
     font-weight: 400;
     color: #39a5f1;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+.authors {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 .autgor
